@@ -16,10 +16,10 @@
   "author": "Stefano Verna",
   "license": "ISC",
   "dependencies": {
-    "async": "1.5.2",
-    "ejs": "2.4.1",
-    "glob": "7.0.3",
-    "lwip": "0.0.8",
+    "async": "2.0.1",
+    "ejs": "2.5.1",
+    "glob": "7.0.5",
+    "lwip": "0.0.9",
     "meow": "3.7.0",
     "spritesmith": "3.1.0"
   }
